@@ -11,11 +11,6 @@
 Feed Reader is a web-based application that reads RSS feeds via async call. As, a frontend developer the task is to write test cases for multiple funcationalities. [Jasmine 2.1.2](http://jasmine.github.io/) testing framework has been used to test the web app for different scenarios.
 
 
-## Web App Live
-
-The web App is publicly hosted on github pages.
- **Checkout Live WebApp** : [Feed Reader Testing Project](https://onejeet.github.io/feedreader_jasmineTesting)
-
 ## How to Run the Web App Locally
 
 **Using GUI**:
@@ -23,16 +18,17 @@ The web App is publicly hosted on github pages.
 1. Click "Clone in Desktop" / "Download ZIP".
 2. Open the folder.
 3. Open index.html on your preferred browser.
-4. There should be several test results at the bottom of the screen that says... 
+4. There should be several test results at the bottom of the screen that says...  
 "__  specs, __  failures"
 
 **Using TERMINAL**:
 
 1. **Pre-requisite** : Install [**git**](https://git-scm.com/).
-2. Clone this repo. Open your terminal or Git Bash and run `git clone https://github.com/onejeet/feedreader_jasmineTesting.git`
+2. Clone this repo. Open your terminal or Git Bash and run  
+`git clone https://github.com/onejeet/feedreader_jasmineTesting.git`
 3. Open the folder.
 4. Open index.html on your preferred browser.
-5. There should be several test results at the bottom of the screen that says... 
+5. There should be several test results at the bottom of the screen that says...   
 "__  specs, __  failures"
 
 ## Tests Performed
